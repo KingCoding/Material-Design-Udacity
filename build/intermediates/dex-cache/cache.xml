@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\classes-d336035d982bd195ec028d0d391ce4df1aec205c.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.1\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-dbcfc5534923467c19f2ce6ab073e0cc9514a800.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\classes-e5cc85731c64bf8b3d1b0a9a011288c5c4ceb4da.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner\Documents\adt-bundle-windows-x86_64-20130717\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-7944f1464d96ca7e762ec5a07d2dbcaf3895cbfb.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\volley-b54d47563953837e6ef74909c6d763e697c79894.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\classes-c86f4d6b01e8c0c5d876f9c61c2a517f4159b960.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a527cd5d9aa10f1a387cbd1c4c426fff5022a376">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\classes-2dbfd1ff33596cb53822711f326051c3fffd5b02.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\volley-b54d47563953837e6ef74909c6d763e697c79894.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\classes-25f925d251747d0449363090510a6b58af7021ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner.owner-HP\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0-93a4919338c1feed05702055e3f8aed225a11017.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-527d7633fc3f2c65165173bad09df8c7c9ea8101.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner.owner-HP\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2-cb598d615b79b0c043c9d508fe65d65826e7d340.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner.owner-HP\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0-93a4919338c1feed05702055e3f8aed225a11017.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner.owner-HP\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2-cb598d615b79b0c043c9d508fe65d65826e7d340.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\classes-8878311abf135c8971bac4599f8db3e770dac323.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\owner.owner-HP\AndroidStudioProjects\AndroidNanodegreeProjects\XYZMAIN\XYZReader\build\intermediates\pre-dexed\debug\classes-448f9e5c1aa29d2efcda84ab769e5929b367ed29.jar" />
+    </item>
+
+</items>
