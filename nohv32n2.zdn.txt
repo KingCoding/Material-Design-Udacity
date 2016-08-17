@@ -1,0 +1,110 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .gradle/2.2.1/taskArtifacts/cache.properties.lock
+#	modified:   .gradle/2.2.1/taskArtifacts/fileHashes.bin
+#	modified:   .gradle/2.2.1/taskArtifacts/fileSnapshots.bin
+#	modified:   .gradle/2.2.1/taskArtifacts/outputFileStates.bin
+#	modified:   .gradle/2.2.1/taskArtifacts/taskArtifacts.bin
+#	modified:   .idea/workspace.xml
+#	new file:   XYZReader/build/generated/source/buildConfig/androidTest/debug/com/example/xyzreader/test/BuildConfig.java
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/design/R$anim.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/design/R$attr.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/design/R$bool.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/design/R$color.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/design/R$dimen.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/design/R$drawable.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/design/R$id.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/design/R$integer.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/design/R$layout.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/design/R$string.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/design/R$style.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/design/R$styleable.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/design/R.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/cardview/R$attr.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/cardview/R$color.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/cardview/R$dimen.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/cardview/R$style.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/cardview/R$styleable.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/cardview/R.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/recyclerview/R$attr.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/recyclerview/R$dimen.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/recyclerview/R$styleable.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/android/support/v7/recyclerview/R.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/BuildConfig.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$anim.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$attr.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$bool.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$color.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$dimen.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$drawable.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$fraction.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$id.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$integer.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$layout.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$menu.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$mipmap.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$string.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$style.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$styleable.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$transition.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/data/ArticleLoader$Query.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/data/ArticleLoader.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/data/ItemsContract$Items.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/data/ItemsContract$ItemsColumns.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/data/ItemsContract.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/data/ItemsDatabase.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/data/ItemsProvider$Tables.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/data/ItemsProvider.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/data/SelectionBuilder.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/data/UpdaterService.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/remote/Config.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/remote/RemoteEndpointUtil.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$1.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment$1.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment$2.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment$3.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$1.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$Adapter$1.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$Adapter.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/DividerItemDecoration.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/DrawInsetsFrameLayout$OnInsetsCallback.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/DrawInsetsFrameLayout.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/DynamicHeightNetworkImageView.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ImageLoaderHelper$1.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ImageLoaderHelper.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/MaxWidthLinearLayout.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ObservableScrollView$Callbacks.class
+#	deleted:    XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ObservableScrollView.class
+#	new file:   XYZReader/build/intermediates/incremental/aidl/androidTest/debug/dependency.store
+#	new file:   XYZReader/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml
+#	new file:   XYZReader/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml
+#	new file:   XYZReader/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml
+#	new file:   XYZReader/build/intermediates/resources/resources-debug-androidTest.ap_
+#	modified:   XYZReader/build/intermediates/resources/resources-debug.ap_
+#
+
